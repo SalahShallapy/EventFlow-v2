@@ -71,7 +71,7 @@
 ## Project Structure
 
 ```
-EventFlow
+EventFlow v2
 │      package-lock.json
 │      README.md
 │
